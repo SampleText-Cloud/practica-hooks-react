@@ -33,7 +33,7 @@ export const FormularioComponent = () => {
                 <label htmlFor="userName">Username</label>
                 <input
                     type="userName"
-                    className="form-control"
+                    className="form-control" 
                     name="userName"
                     placeholder="Enter your Username"
                     value={userName}
